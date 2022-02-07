@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no"/>
+    <title>Ation</title>
+    <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css"/>
+    
+    <link rel="icon" href="ation_ingot.png">
+    
+</head>
+
+<body>
+<div id="app"></div>
+
+<script>
+      window.$docsify = {
+        name: "Ation",
+        repo: "",
+        // coverpage: "coverpage.md",
+        homepage: "README.md",
+        loadSidebar: "sidebar.md",
+        auto2top: true,
+        maxLevel: 3,
+        subMaxLevel: 3,
+
+        nameLink: {
+                '/': '/'
+            },
+
+
+        copyCode: {
+					buttonText: '点击复制',
+					errorText: '复制失败',
+					successText: '复制成功'
+				},
+
+				  search: 'auto', // 默认值
+
+            search : [
+              '/',            // => /README.md
+              '/guide',       // => /guide.md
+              '/get-started', // => /get-started.md
+              '/zh-cn/',      // => /zh-cn/README.md
+            ],
+
+            // 完整配置参数
+            search: {
+              maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+              paths: [], // or 'auto'
+              placeholder: 'Type to search',
+
+              // 支持本地化
+              placeholder: {
+                '/zh-cn/': '搜索',
+                '/': 'Type to search'
+              },
+
+              noData: 'No Results!',
+
+              // 支持本地化
+              noData: {
+                '/zh-cn/': '找不到结果',
+                '/': 'No Results'
+              },
+
+              // 搜索标题的最大层级, 1 - 6
+              depth: 2,
+
+              hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+
+              // 避免搜索索引冲突
+              // 同一域下的多个网站之间
+              namespace: 'website-1',
+
+              // 使用不同的索引作为路径前缀（namespaces）
+              // 注意：仅适用于 paths: 'auto' 模式
+              //
+              // 初始化索引时，我们从侧边栏查找第一个路径
+              // 如果它与列表中的前缀匹配，我们将切换到相应的索引
+              pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+
+              // 您可以提供一个正则表达式来匹配前缀。在这种情况下，
+              // 匹配到的字符串将被用来识别索引
+              pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+            }
+      };
+
+
+</script>
+
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<!-- 主题插件 -->
+<script src="https://unpkg.com/docsify-themeable"></script>
+<!-- 搜索插件 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
+<!-- 单击复制 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.js"></script>
+
+
+<!-- 语法高亮 -->
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-cpp.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bat.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+
+<!-- emoji -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script>
+
+<!-- 图片缩放 -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+
+<!-- 折叠 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+
+</body>
+</html>
