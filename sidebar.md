@@ -1,4 +1,4 @@
-- [Ation](/)
+- [AtionMC](/)
 - **Links**
 [Github](https://github.com/AtionMC)
 [开黑啦](https://kaihei.co/zGjFiN)
