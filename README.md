@@ -17,12 +17,12 @@ Ation 在官网支持在线下载
 
 
 # 应用程序
-* Ation 是一个使用AtionMC加载器，主要作者是OverRun团队并AtionMC Team团队
+* Ation，新一代的模组加载器。
 * Ation-Installer，一个安装器配置文件的工具。
 * Ation-Loader，一个MOD加载器，加载Ation模组。
-* Ation-API，一个api就支持java、Kotlin、Scala、lua、js、ts、py。
-* Ation-Gradle，一个Ation Gradle构建工具，使用开发Ation模组。
-* Ation-Codetable，一个Ation代码表，游戏中混淆里，取新名称
+* Ation-API，API支持java、Kotlin、Scala、lua、js、ts、py。
+* Ation-Gradle，一个AtionGradle构建工具，使用开发Ation模组。
+* Ation-Codetable，一个Ation代码表，游戏中混淆里中取新名称
 
 ```java
 public class Ation {
