@@ -18,11 +18,11 @@ Ation 在官网支持在线下载
 
 # 应用程序
 * Ation，AtionMC 团队
-* AtionInstaller，AtionMC Installer安装器配置文件工具。
-* AtionLoader，AtionMC ModLoader（态引MC模组加载器）。
-* AtionAPI，AtionMC API 支持多语言开发API：java、Kotlin、Scala、lua、js、ts、py。
-* AtionGradle，AtionMC Gradle构建工具，使用开发Ation模组。
-* AtionCodetable，AtionMC代码表，游戏中混淆里中取新名称
+* AtionMC Installer，安装器配置文件工具。
+* AtionMC ModLoader，态引MC模组加载器。
+* AtionMC API，AtionMC API 支持多语言开发API：java、Kotlin、Scala、lua、js、ts、py。
+* AtionMC Gradle，AtionMC Gradle构建工具，使用开发Ation模组。
+* AtionMC Codetable，AtionMC代码表，游戏中混淆里中取新名称
 
 ```java
 public class Ation {
