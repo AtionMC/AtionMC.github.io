@@ -4,7 +4,7 @@
 
 ## Ation是什么
 
-Ation是Minecraft模组加载器，支持Mixin、脚本语言，是OverRun团队和AtionMC团队开发。
+Ation模组加载器，支持Mixin、脚本语言，是OverRun团队和AtionMC团队开发。
 
 # 下载
 
