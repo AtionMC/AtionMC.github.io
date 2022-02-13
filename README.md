@@ -4,7 +4,7 @@
 
 ## Ation是什么
 
-Ation模组加载器，支持Mixin、脚本语言，是OverRun团队和AtionMC团队开发。
+Ation（态引）是新一代的模组加载器。支持使用多种语言来编写您的模组；且内置mixin，实现混淆自由。由 OverRun 团队和 AtionMC 团队推出并维护。
 
 # 下载
 
