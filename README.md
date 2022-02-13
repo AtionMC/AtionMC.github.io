@@ -1,23 +1,23 @@
-# Ation网站
+# AtionMC 网站
 
 [![Java](https://img.shields.io/badge/Java-17-informational)](http://openjdk.java.net/)
 
-## Ation是什么
+## AtionMC是什么
 
-Ation（态引）是新一代的模组加载器，支持多语言开发模组；内置mixin，实现混淆自由。由 AtionMC 团队和 OverRun 团队开发并维护。
+AtionMC（态引）是新一代的模组加载器，支持多语言开发模组；内置mixin，实现混淆自由。由 AtionMC 团队和 OverRun 团队开发并维护。
 
 # 下载
 
-Ation 在官网支持在线下载
+AtionMC 在官网支持在线下载
 
 | 版本 | 时间 | 更新内容 | 下载 |
 |-----|------|---------|--------|
-| 0.0.1-alpha ★ | 2021-1-27 | Ation加载器 | [dev★](https://github.com/Over-Run/ation/archive/refs/tags/ation-0.0.1-20210127-alpha-dev.zip) |
+| 0.0.1-alpha ★ | 2021-1-27 | AtionMC 模组加载器 | [dev★]() |
 
 
 
 # 应用程序
-* Ation，AtionMC 团队
+* AtionMC，AtionMC 团队
 * AtionMC Installer，安装器配置文件工具。
 * AtionMC ModLoader，态引MC模组加载器。
 * AtionMC API，AtionMC API 支持多语言开发API：java、Kotlin、Scala、lua、js、ts、py。
