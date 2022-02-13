@@ -4,7 +4,7 @@
 
 ## Ation是什么
 
-Ation是有的叫AtionMC，还有的叫AtionModLoader是Ation模组加载器，是OverRun团队和AtionMC团队写的。
+Ation是Minecraft模组加载器，支持Mixin、脚本语言，是OverRun团队和AtionMC团队开发。
 
 # 下载
 
