@@ -4,7 +4,7 @@
 
 ## Ation是什么
 
-Ation（态引）是新一代的模组加载器。支持使用多种语言来编写您的模组；且内置mixin，实现混淆自由。由 OverRun 团队和 AtionMC 团队推出并维护。
+Ation（态引）是新一代的模组加载器，支持多语言开发模组；内置mixin，实现混淆自由。由 AtionMC 团队和 OverRun 团队开发并维护。
 
 # 下载
 
@@ -17,12 +17,12 @@ Ation 在官网支持在线下载
 
 
 # 应用程序
-* Ation，新一代的模组加载器。
-* Ation-Installer，一个安装器配置文件的工具。
-* Ation-Loader，一个MOD加载器，加载Ation模组。
-* Ation-API，API支持java、Kotlin、Scala、lua、js、ts、py。
-* Ation-Gradle，一个AtionGradle构建工具，使用开发Ation模组。
-* Ation-Codetable，一个Ation代码表，游戏中混淆里中取新名称
+* Ation，Ation 新一代的模组加载器。
+* AtionInstaller，AtionInstaller安装器配置文件工具。
+* AtionLoader，AtionModLoader模组加载器，加载Ation模组。
+* AtionAPI，AtionAPI支持java、Kotlin、Scala、lua、js、ts、py。
+* AtionGradle，AtionGradle构建工具，使用开发Ation模组。
+* AtionCodetable，一个Ation代码表，游戏中混淆里中取新名称
 
 ```java
 public class Ation {
