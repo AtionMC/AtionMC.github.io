@@ -12,7 +12,7 @@ AtionMC 在官网支持在线下载
 
 | 版本 | 时间 | 更新内容 | 下载 |
 |-----|------|---------|--------|
-| 0.0.1-alpha ★ | 2021-1-27 | AtionMC 模组加载器 | [Installer :package:](https://ationmc.github.io/jar/AtionInstaller-0.0.1-alpha.jar) |
+| 0.0.1-alpha :star: | 2021-1-27 | AtionMC 模组加载器 | [Installer :package:](https://ationmc.github.io/jar/AtionInstaller-0.0.1-alpha.jar) |
 
 
 
