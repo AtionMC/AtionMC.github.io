@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17-informational)](http://openjdk.java.net/)
 
-## AtionMC是什么
+## AtionMC 是什么
 
 AtionMC（态引）是新一代的模组加载器，支持多语言开发模组；内置mixin，实现混淆自由。由 AtionMC 团队和 OverRun 团队开发并维护。
 
