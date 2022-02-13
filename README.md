@@ -20,7 +20,7 @@ Ation 在官网支持在线下载
 * Ation，Ation 新一代的模组加载器。
 * AtionInstaller，AtionInstaller安装器配置文件工具。
 * AtionLoader，AtionModLoader模组加载器，加载Ation模组。
-* AtionAPI，AtionAPI支持java、Kotlin、Scala、lua、js、ts、py。
+* AtionAPI，AtionAPI 支持多语言开发API：java、Kotlin、Scala、lua、js、ts、py。
 * AtionGradle，AtionGradle构建工具，使用开发Ation模组。
 * AtionCodetable，一个Ation代码表，游戏中混淆里中取新名称
 
