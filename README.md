@@ -35,12 +35,10 @@ public class Ation {
 
 # 许可证
 * 版权所有©2022 AtionMC
-* 版权所有©2022 OverRun
 * GNU通用公共许可证版本2.0
 * 不是官方的 Minecraft 产品。未经 MOJANG 批准或与 MOJANG 相关。
 
 -----
 * Copyright © 2022 AtionMC
-* Copyright © 2022 Over-Run
 * GNU General Public License v2.0
 * NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
