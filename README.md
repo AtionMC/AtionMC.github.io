@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17-informational)](http://openjdk.java.net/)
 
-Ation 中文名字 态引，是实现模组加载器、使用Mixin来改写mc代码，OverRun团队并AtionMC Team团队都写，未来支持脚本语言
+Ation 中文名字 态引，是实现模组加载器、使用Mixin来改写MC代码，OverRun团队并AtionMC Team团队都写，未来支持脚本语言
 
 # 下载
 
