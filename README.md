@@ -4,7 +4,7 @@
 
 ## Ation是什么
 
-Ation是模组加载器，使用Mixin来改写MC代码，是OverRun团队和AtionMC团队写。
+Ation是模组加载器，支持Mixin，是OverRun团队和AtionMC团队写。
 
 # 下载
 
